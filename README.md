@@ -10,6 +10,6 @@ Hãy tham khảo các repository của mình bên dưới và đừng ngần ng�
 
 ---
 
-![Phùng Bảo Khang Profile](./profile-placeholder.png)
+![Phùng Bảo Khang Profile]([./profile-placeholder.png](https://www.facebook.com/))
 
 
